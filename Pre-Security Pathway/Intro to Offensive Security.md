@@ -1,7 +1,7 @@
 # Introduction to Offensive Security
 
 ## Tools
-- [Gobuster](Tools/Gobuster.md)
+- [Gobuster](/Tools/Gobuster.md)
 
 ## Table of Contents
 - [Introduction to Offensive Security](#introduction-to-offensive-security)
@@ -47,6 +47,8 @@ A terminal (command-line interface) allows interaction with a computer without a
 
 ### Step 2: Find Hidden Website Pages
 Use "GoBuster," a command-line tool, to brute-force hidden directories and pages on the FakeBank website. It tries accessing the website with each word from a list to reveal hidden pages.
+
+- [Gobuster](/Tools/Gobuster.md)
 
 **Command to Run**:
 ```bash
