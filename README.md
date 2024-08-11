@@ -4,22 +4,20 @@
 — *Talmud*
 
 ---
-
-## Table of Contents
-- [Offensive Cyber Warfare](#offensive-cyber-warfare)
-  - [Table of Contents](#table-of-contents)
-  - [Tools](#tools)
-  - [Links](#links)
-  - [Cybersecurity Learning Resources](#cybersecurity-learning-resources)
----
-## Tools
-- [Gobuster](Tools/Gobuster.md)
-
----
 ## Links
 - [Pre-Security Pathway](/Pre-Security%20Pathway/Pre-Security%20Pathway.md)
   - [Intro to Offensive Security](/Pre-Security%20Pathway/Intro%20to%20Offensive%20Security.md)
-    - [Gobuster](Tools/Gobuster.md) 
+    - [Gobuster](/Tools/Gobuster.md) 
+---
+## Table of Contents
+- [Offensive Cyber Warfare](#offensive-cyber-warfare)
+  - [Links](#links)
+  - [Table of Contents](#table-of-contents)
+  - [Tools](#tools)
+  - [Cybersecurity Learning Resources](#cybersecurity-learning-resources)
+---
+## Tools
+- [Gobuster](/Tools/Gobuster.md)
 
 ---
 ## Cybersecurity Learning Resources
